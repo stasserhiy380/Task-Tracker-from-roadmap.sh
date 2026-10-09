@@ -67,7 +67,7 @@ mark-done 1
 ```bash
 list
 list todo
-list "in progress"
+list in-progress
 list done
 ```
 
