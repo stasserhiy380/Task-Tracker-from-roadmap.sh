@@ -96,7 +96,7 @@ def mark_progress_action(args):
     global tasks
     for task in tasks:
         if task.id == int(args.id[0]):
-            task.status = "in progress"
+            task.status = "in-progress"
             task.updatedAt = datetime.date.today()
 
     save_tasks()
