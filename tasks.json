@@ -1,0 +1,72 @@
+[
+    {
+        "id": 2,
+        "description": "Study object-oriented programming",
+        "status": "done",
+        "createdAt": "2026-09-06",
+        "updatedAt": "2026-09-12"
+    },
+    {
+        "id": 3,
+        "description": "Build a CLI expense tracker",
+        "status": "done",
+        "createdAt": "2026-09-15",
+        "updatedAt": "2026-09-20"
+    },
+    {
+        "id": 4,
+        "description": "Learn argparse module",
+        "status": "done",
+        "createdAt": "2026-09-21",
+        "updatedAt": "2026-09-23"
+    },
+    {
+        "id": 5,
+        "description": "Build a task tracker CLI",
+        "status": "done",
+        "createdAt": "2026-10-01",
+        "updatedAt": "2026-10-09"
+    },
+    {
+        "id": 6,
+        "description": "Implement JSON persistence",
+        "status": "in-progress",
+        "createdAt": "2026-10-03",
+        "updatedAt": "2026-10-08"
+    },
+    {
+        "id": 7,
+        "description": "Add task filtering",
+        "status": "todo",
+        "createdAt": "2026-10-05",
+        "updatedAt": "2026-10-05"
+    },
+    {
+        "id": 8,
+        "description": "Write unit tests",
+        "status": "todo",
+        "createdAt": "2026-10-06",
+        "updatedAt": "2026-10-06"
+    },
+    {
+        "id": 9,
+        "description": "Refactor project architecture",
+        "status": "in progress",
+        "createdAt": "2026-10-07",
+        "updatedAt": "2026-10-09"
+    },
+    {
+        "id": 10,
+        "description": "Publish project on GitHub",
+        "status": "todo",
+        "createdAt": "2026-10-09",
+        "updatedAt": "2026-10-09"
+    },
+    {
+        "id": 11,
+        "description": "drink coffee",
+        "status": "done",
+        "createdAt": "2026-10-09",
+        "updatedAt": "2026-10-09"
+    }
+]
